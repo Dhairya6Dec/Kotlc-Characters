@@ -1,0 +1,42 @@
+body{
+    margin: 30px;
+    font-size: 20px;
+    font-family: Apple Chancery, cursive;
+}
+.foxfire{
+    border: 2px black solid;
+    background:linear-gradient(firebrick,orange);
+    border-radius: 30px;
+}
+.Fitz{
+    border: 2px black solid;
+    background:linear-gradient(purple, white);
+    border-radius: 30px;
+}
+.biana{
+    border: 2px black solid;
+    background:linear-gradient(aqua,rgb(180,82,255));
+    border-radius: 30px; 
+}
+.Grady{
+    border: 2px black solid;
+    background:linear-gradient(green,white);
+    border-radius: 30px; 
+}
+.Alden{
+    border: 2px black solid;
+    background:linear-gradient(cornflowerblue,firebrick);
+    border-radius: 30px; 
+}
+.Dex{
+    border: 2px black solid;
+    background:linear-gradient(slategrey,cornflowerblue);
+    border-radius: 30px; 
+}
+img {
+    opacity: 0.4;
+    }
+    
+    img:hover {
+    opacity: 1.0;
+    }
